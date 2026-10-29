@@ -201,6 +201,16 @@ Academic, industry, and technical references are provided in the project report 
 
 The research draws on published work concerning AI-driven testing, Ubisoft La Forge, technology management, intellectual property, and organizational knowledge transfer.
 
+## Copyright & Usage
+
+**All Rights Reserved.**
+
+This academic project is publicly available for viewing and reference purposes only.
+
+Unauthorized copying, modification, redistribution, or reuse of the original reports, presentations, and project materials is not permitted.
+
+All rights to third-party trademarks, images, and referenced materials remain with their respective owners.
+
 ## Disclaimer
 
 This project was created exclusively for academic and educational purposes.
@@ -208,3 +218,5 @@ This project was created exclusively for academic and educational purposes.
 It is an independent student case study and is not affiliated with, sponsored by, approved by, or endorsed by Ubisoft.
 
 All proposed technologies, partnerships, evaluation scores, implementation plans, and expected benefits represent academic analysis rather than confirmed Ubisoft activities.
+
+
