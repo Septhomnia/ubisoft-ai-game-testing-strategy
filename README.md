@@ -1,13 +1,12 @@
 
+
 # AI-Driven Game Testing at Ubisoft
 
 ### Technology Acquisition & Transfer Strategy | Academic Case Study
 
+![Ubisoft AI-Driven Game Testing — Presentation Cover](assets/presentation-cover.png)
+
 An academic case study developed for the **Technology Management** course at **Istanbul Atlas University**, exploring how Ubisoft could enhance game quality assurance (QA) through artificial intelligence, automated testing, and strategic technology acquisition.
-
-The project examines software testing challenges in large-scale game development, evaluates technology acquisition alternatives, and proposes a hybrid strategy combining internal research and development (R&D) with external technology partnerships.
-
-> **Project Scope:** This is an independent academic research and strategic proposal. It does not represent an implemented Ubisoft system, an official company initiative, or a commercially deployed AI testing solution.
 
 ---
 
@@ -61,6 +60,11 @@ The conceptual AI-assisted testing workflow follows five stages:
 4. **Validate:** Telemetry and automated checks identify potential issues.
 5. **Review:** Human QA teams evaluate and verify reported defects.
 
+
+![Conceptual AI-Driven Game Testing Architecture](assets/system-architecture.png)
+
+*Figure 1. Proposed AI-assisted game testing workflow, from CI/CD integration to human QA validation.*
+
 Supporting capabilities include game engine adapters, reusable test repositories, and machine learning-based risk prioritization.
 
 The proposed architecture would require technical validation before integration with Ubisoft's proprietary engines and development workflows.
@@ -99,6 +103,10 @@ The team's weighted decision matrix identified a partnership-led strategy as the
 | Acquire | 3.10 / 5 |
 | License | 2.75 / 5 |
 | Buy | 2.60 / 5 |
+
+![Technology Acquisition Decision Matrix](assets/decision-matrix.png)
+
+*Figure 2. Weighted evaluation of five technology acquisition alternatives. Scores represent the project team's illustrative assessment.*
 
 **Recommended Strategy: Strategic Technology Partnership supported by Internal R&D.**
 
