@@ -1,5 +1,4 @@
 
-
 # AI-Driven Game Testing at Ubisoft
 
 ### Technology Acquisition & Transfer Strategy | Academic Case Study
@@ -7,6 +6,8 @@
 ![Ubisoft AI-Driven Game Testing — Presentation Cover](assets/presentation-cover.png)
 
 An academic case study developed for the **Technology Management** course at **Istanbul Atlas University**, exploring how Ubisoft could enhance game quality assurance (QA) through artificial intelligence, automated testing, and strategic technology acquisition.
+
+> **Project Scope:** This is a research-based strategy proposal, not a deployed testing system, an official Ubisoft initiative, or a validated commercial solution.
 
 ---
 
@@ -60,10 +61,9 @@ The conceptual AI-assisted testing workflow follows five stages:
 4. **Validate:** Telemetry and automated checks identify potential issues.
 5. **Review:** Human QA teams evaluate and verify reported defects.
 
-
 ![Conceptual AI-Driven Game Testing Architecture](assets/system-architecture.png)
 
-*Figure 1. Proposed AI-assisted game testing workflow, from CI/CD integration to human QA validation.*
+*Figure 1. Conceptual AI-assisted game testing workflow, from CI/CD integration to human QA validation. The illustration is part of the academic proposal and does not demonstrate a production-ready Ubisoft implementation.*
 
 Supporting capabilities include game engine adapters, reusable test repositories, and machine learning-based risk prioritization.
 
@@ -110,7 +110,11 @@ The team's weighted decision matrix identified a partnership-led strategy as the
 
 **Recommended Strategy: Strategic Technology Partnership supported by Internal R&D.**
 
-This approach combines Ubisoft La Forge's internal AI research capabilities with complementary expertise from a potential external technology partner.
+A partnership-led approach could provide access to specialized AI-testing expertise while allowing Ubisoft to retain and develop important internal research capabilities.
+
+Combining external collaboration with internal R&D could also support knowledge transfer and more controlled integration into existing QA workflows.
+
+These are strategic considerations to be tested, not demonstrated outcomes.
 
 > **Evaluation Note:** The scores represent illustrative assessments made by the project team. They are not measured Ubisoft performance data, confirmed vendor evaluations, or official corporate decisions.
 
@@ -170,9 +174,10 @@ These are proposed performance indicators. Actual improvements would need to be 
 
 ## Project Team
 
-This research was conducted collaboratively by a five-member Software Engineering student team.
+This academic case study was completed by a five-member Software Engineering student team.
 
 **Team Members:**
+
 - Esra Rüzgar
 - Büşra Vural
 - Hayrunnisa Beyza İncel
@@ -181,35 +186,49 @@ This research was conducted collaboratively by a five-member Software Engineerin
 
 ### Individual Contributions
 
-Specific research, writing, evaluation, and presentation responsibilities can be documented here to acknowledge each member's contributions accurately.
+**Esra Rüzgar**
 
-## Research Areas & Skills
+- developed and designed the complete project presentation, including its content, slide structure, and visual design.
+- Reviewed and revised the academic project report for clarity, consistency, and overall quality.
+
+**Büşra Vural, Hayrunnisa Beyza İncel, Amede Leblond Djoubi, and Şilan Başkan**
+
+- Collaboratively conducted research and prepared the academic project report.
+
+## Research Topics & Technologies
+
+The following topics were examined or discussed as part of the academic case study. Listing them does not imply that the team implemented the proposed technologies.
 
 - Technology Management
 - Software Quality Assurance
 - AI-Assisted Game Testing
-- Reinforcement Learning Applications
+- Reinforcement Learning for Game Testing
 - Automated Regression Testing
+- Machine Learning-Based Defect Prediction
 - Technology Acquisition & Transfer
 - Strategic Decision-Making
 - Risk and Intellectual Property Analysis
-- Technical Research and Communication
+- Knowledge Transfer and Implementation Planning
 
 ## References
 
-Academic, industry, and technical references are provided in the project report and presentation.
+Academic, industry, and technical sources used for this case study are documented in the [Academic Report](report/ubisoft-technology-acquisition-and-transfer-report.pdf) and the [Project Presentation](presentation/ubisoft-ai-game-testing-strategy.pdf).
 
-The research draws on published work concerning AI-driven testing, Ubisoft La Forge, technology management, intellectual property, and organizational knowledge transfer.
+The research discusses AI-driven testing, Ubisoft La Forge, technology management, intellectual property, and organizational knowledge transfer.
+
+Readers are encouraged to consult the linked documents for detailed references and research context.
 
 ## Copyright & Usage
 
-**All Rights Reserved.**
+**All Rights Reserved** for the original student-created materials, subject to the rights of their respective authors and any applicable third-party rights.
 
-This academic project is publicly available for viewing and reference purposes only.
+The academic report, presentation, and original project materials are publicly available for educational viewing and citation.
 
-Unauthorized copying, modification, redistribution, or reuse of the original reports, presentations, and project materials is not permitted.
+Reproduction, modification, or redistribution of original material requires permission from the relevant rights holders, except where permitted by applicable law.
 
-All rights to third-party trademarks, images, and referenced materials remain with their respective owners.
+Third-party trademarks, logos, images, and other referenced materials remain the property of their respective owners.
+
+Their appearance in this project does not imply any transfer of rights or endorsement.
 
 ## Disclaimer
 
@@ -218,5 +237,3 @@ This project was created exclusively for academic and educational purposes.
 It is an independent student case study and is not affiliated with, sponsored by, approved by, or endorsed by Ubisoft.
 
 All proposed technologies, partnerships, evaluation scores, implementation plans, and expected benefits represent academic analysis rather than confirmed Ubisoft activities.
-
-
